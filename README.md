@@ -6,6 +6,7 @@ I build responsive and modern web application using React and Java script
 - HTML5
 - CSS3
 - JavaScript (Es6)
+- Typescript
 - React
 - Tailwind Css
 - Firebase Auth and databse
